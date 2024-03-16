@@ -19,7 +19,7 @@ To clone and run this application, you'll need Git and Node.js (which comes with
 2. Navigate to the project directory:
 
    ```bash
-   cd equine-tracker
+   cd your project directory
    ```
 
 3. Install the required dependencies:
