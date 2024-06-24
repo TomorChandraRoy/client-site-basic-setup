@@ -5,7 +5,7 @@ import Navbar from './../components/shareComponents/Navbar';
 
 const MainLayOut = () => {
     return (
-        <div>
+        <div className="w-full min-h-screen">
             <Navbar />
                <Outlet />
             <Footer />

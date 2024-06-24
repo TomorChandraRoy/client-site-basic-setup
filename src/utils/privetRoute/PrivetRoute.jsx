@@ -1,4 +1,4 @@
-// {**😍😍firebase must be installed if not installed will not work😍😍 **}
+// // {**😍😍firebase must be installed if not installed will not work😍😍 **}
 
 // import { useContext } from "react";
 // import { AuthContext } from "../AuthProvider/AuthProvider";
